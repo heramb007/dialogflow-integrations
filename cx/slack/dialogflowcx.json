@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "uber-poc-397822",
+  "private_key_id": "9c73752d33b8e88e97fea48b35ceeb14625b09cd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9RKrhG3ODH5F/\ndoB4LFcsXoY3v5t/3xy4LycbDGbIsE0l9glNxptXLxswISGsjTncXgJ3Ye/I3vcn\nYgCWiKpl3OH6BT4M+oET0uSgrgLB6T8m9BWOyfOWSSlSkW1mXSURbPXEfPPvy/Zq\ndeERWTcI34ol2FcsQ2P7AXDyCHszz0W1KzZOaoG/6xYsAA42DeOUjALpLFQBZUsD\nkkHZ2+hSyY9gkdN8gF6vbFbZgUZmARJgrEyqLpP7neQBLJY2oFwUVuUNjT5WKSCM\nEFBfbyiA808EbZGqWqsSlk4yshDOsbwZ+lc1cCSVy7tpiwof7Nqw6qAVVRIu9wnb\nEE9EBd1FAgMBAAECggEABrrn9W4FQxn4ROpxBW6HzjgX2OhwHkscuYZTtnTpor4O\n826dEUe8QyYvQ7YQShNFH3G1IyTRL5KRT03/OPS0unKKrPOxK5AsztVAJyzvRCq7\nG1nkLY0/PPTVCogvthgenVDQKT1LbBd6NHoeMRoiO6dXQW+nI34x+L1dLf4UA3LB\nPGH3bQVEKNkdhjcCgIWx7Rg//mE0AEIsYO63liPiFn8YnXllNKmsLuNgGRwcgWss\n36DtTgEpeGNLp7/qmoQocCc3CPebwYmjBBu60Doc1nPNUV417D/RmFOoNiLVeBRX\nqLBr/MO9cE1f6eYNHfGzAFViiiHOWn3jQ4t7VZEecQKBgQD0lC3Ge2Ynq7gNXTWl\nF3gaf8/eESc5gJy1hj19r1smUDhEeViFYjwaglimwCYpK6IJcPg9HWIpf3uiakBp\noTWYbkeHdro3wj8xiFI9IAjjR/mr9goh6TQx1YSGuG4FkoQRxKORjioRNF3OnYgd\n6x0lh/rXg1xyyWWoQWQJpzUK+wKBgQDGG0cD1z9HZDUlh+YwwC2j3TfZl3iVHQ/2\nQgW0E8zAKq/5HEJp/6x9PNs0C1wURZE6MZe/hOG9tu45snoFS/71y4kr0/agVUba\nFTFoJXXiYZgc/uKXeHTWYJypUBl27AHAzkFuKyBlXqjeuk6b+HqIu2Szy5VwQmN9\nY6zsHxhEvwKBgQCOvQwaElqEPIumAQgV2aSWkpFWINyriovqxPWOLJEdwyOTkt4+\nuh4punjSmMGstXJT4EKAKG3pmiUlnK0K+LK2y2WjgX8cm5kV52FXmyKUwqTL30P6\nloeHrf0yQuCzD9dUJ1bu0/FpKQ62TunpzBWumbWjoV6K/07862ze1V73kQKBgEZF\ngMBFBwY87nk8ppOeZ9Ibc2c0yqoiH/pbWwiQiW2U9sznkEtnTPkzsBHbAbOTJbu9\nwbVG3ohcLk67F3tvhKYNp7+rNW2UMkjDgb4Oo61Erx+B7kCKku9EX+3TIuVDPC/3\nOdBpbdlnZYF0FtROpLCBwGviiETE1+OvirRLJ2GjAoGAG6LsbQquYkfZf0ciquuq\nmVNaPP85qq2SDyi29rUzSsNuBPoebZhEZjKWcduJ7vywE297YGgamV4/TH6UoWeh\nL1tsuzS1GGN/FOS7RP5M0E/o4DLyyj3T2j3TC7pSlsfC3IP1Cf7w2xD6OvvqSITw\nWc1O+OiWNOGQ6iFGIDyOP4s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "uber-cx-slack-service-account@uber-poc-397822.iam.gserviceaccount.com",
+  "client_id": "111960986121191811106",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uber-cx-slack-service-account%40uber-poc-397822.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
