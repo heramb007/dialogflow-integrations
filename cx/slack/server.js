@@ -9,7 +9,7 @@ const slackToken = 'xoxb-5838129240597-5841951492402-Wo8VRjSlG1O1l3alhbqrA9um';
 // const locationId = 'global';
 // const agentId = 'my-agent';
 // const languageCode = 'en';
-
+const port = process.env.PORT || 8080;
 const structProtoToJson =
     require('../../botlib/proto_to_json.js').structProtoToJson;
 
