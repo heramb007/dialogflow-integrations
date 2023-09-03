@@ -3,8 +3,8 @@
  * Add your service key to the current folder.
  * Uncomment and fill in these variables.
  */
-// const slackSigningSecret = '...';
-// const slackToken = 'xoxb-...';
+const slackSigningSecret = '2a71a7cc3819b077538b63151b7af04b';
+const slackToken = 'xoxb-5838129240597-5841951492402-Wo8VRjSlG1O1l3alhbqrA9um';
 // const projectId = 'my-project';
 // const locationId = 'global';
 // const agentId = 'my-agent';
