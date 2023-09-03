@@ -1,6 +1,8 @@
 # Use the official Node.js 18 image.
    # https://hub.docker.com/_/node
    FROM node:18
+   ENV PORT 8080
+   ENV HOST 0.0.0.0
    EXPOSE 8080
    # Create and change to the app directory.
    WORKDIR /usr/src/app
@@ -14,7 +16,7 @@
    COPY ${INTEGRATION}/package*.json ./
 
    # Install production dependencies.
-   RUN npm install
+   RUN npm install -g npm@10.0.0
 
    # Copy local code to the container image.
    COPY . .
