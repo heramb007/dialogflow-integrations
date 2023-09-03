@@ -6,7 +6,7 @@
    WORKDIR /usr/src/app
 
    # Set this environmental variable to the integration you want to use
-   ENV INTEGRATION=YOUR_INTEGRATION
+   ENV INTEGRATION=/cx/slack
 
    # Copy application dependency manifests to the container image.
    # A wildcard is used to ensure both package.json AND package-lock.json are copied.
