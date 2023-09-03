@@ -1,7 +1,7 @@
 # Use the official Node.js 18 image.
    # https://hub.docker.com/_/node
    FROM node:18
-
+   EXPOSE 8080
    # Create and change to the app directory.
    WORKDIR /usr/src/app
 
