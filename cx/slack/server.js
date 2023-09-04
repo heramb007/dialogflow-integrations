@@ -3,12 +3,12 @@
  * Add your service key to the current folder.
  * Uncomment and fill in these variables.
  */
-const slackSigningSecret = '2a71a7cc3819b077538b63151b7af04b';
-const slackToken = 'xoxb-5838129240597-5841951492402-Wo8VRjSlG1O1l3alhbqrA9um';
-// const projectId = 'my-project';
-// const locationId = 'global';
-// const agentId = 'my-agent';
-// const languageCode = 'en';
+const slackSigningSecret = '85bf3c8a85cab64cfb39b1af71c096b4';
+const slackToken = 'xoxb-5856625013553-5856655625569-3elLTt1YiHiTliG7Cga5QUVG';
+const projectId = 'df-project-397410';
+const locationId = 'global';
+const agentId = '4e83649d-451d-4872-b72b-44cd62e4946d';
+const languageCode = 'en';
 const port = process.env.PORT || 8080;
 const hostname = '0.0.0.0';
 const structProtoToJson =
