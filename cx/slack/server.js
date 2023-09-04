@@ -3,7 +3,7 @@
  * Add your service key to the current folder.
  * Uncomment and fill in these variables.
  */
-const slackSigningSecret = '53696b317b548e68817474c6c8da6ace';
+const slackSigningSecret = '4ac6a57c47b32a3d3918ae53b9822323';
 const slackToken = 'xoxb-5848185848612-5831219072359-8pnKDQapAI1Xey59AqFUndB2';
 const projectId = 'uber-poc-397822';
 const locationId = 'global';
