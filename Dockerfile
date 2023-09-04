@@ -8,7 +8,7 @@
    WORKDIR /usr/src/app
 
    # Set this environmental variable to the integration you want to use
-   ENV INTEGRATION=cx/slack
+   ENV INTEGRATION=/cx/slack
 
    # Copy application dependency manifests to the container image.
    # A wildcard is used to ensure both package.json AND package-lock.json are copied.
@@ -16,7 +16,7 @@
    COPY ${INTEGRATION}/package*.json ./
 
    # Install production dependencies.
-   RUN npm cache clean --force
+   RUN npm cache clean
    RUN npm install -g npm@10.0.0
 
    # Copy local code to the container image.
