@@ -5,9 +5,9 @@
  */
 const slackSigningSecret = '85bf3c8a85cab64cfb39b1af71c096b4';
 const slackToken = 'xoxb-5856625013553-5856655625569-3elLTt1YiHiTliG7Cga5QUVG';
-const projectId = 'df-project-397410';
+const projectId = 'uber-poc-397822';
 const locationId = 'global';
-const agentId = '4e83649d-451d-4872-b72b-44cd62e4946d';
+const agentId = '95c6a58e-3d5f-4fd1-8ab6-09cf8b2b7828';
 const languageCode = 'en';
 const port = process.env.PORT || 8080;
 const hostname = '0.0.0.0';
