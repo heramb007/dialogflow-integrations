@@ -4,7 +4,7 @@
  * Uncomment and fill in these variables.
  */
 const slackSigningSecret = '3ec2ba781632320c6a83a0582f2f8dad';
-const slackToken = 'xoxb-5845921362739-5848473953284-ICLsv0Bu4iR9J9k9CNMt7Tdp';
+const slackToken = 'xoxb-5845921362739-5848473953284-klPve7BDPfIfYz3zoZVr6OIj';
 const projectId = 'uber-poc-397822';
 const locationId = 'global';
 const agentId = 'uber-chatbot';
