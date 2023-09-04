@@ -3,11 +3,11 @@
  * Add your service key to the current folder.
  * Uncomment and fill in these variables.
  */
-const slackSigningSecret = '53696b317b548e68817474c6c8da6ace';
-const slackToken = 'xoxb-5848185848612-5831219072359-WmVr5aeF6cplYglBxP4kBHZW';
+const slackSigningSecret = '3ec2ba781632320c6a83a0582f2f8dad';
+const slackToken = 'xoxb-5845921362739-5848473953284-6CCzFeXKqfXCsWLhxyI80EE0';
 const projectId = 'uber-poc-397822';
 const locationId = 'global';
-const agentId = '95c6a58e-3d5f-4fd1-8ab6-09cf8b2b7828';
+const agentId = 'uber-chatbot';
 const languageCode = 'en';
 const port = process.env.PORT || 8080;
 const hostname = '0.0.0.0';
