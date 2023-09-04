@@ -17,8 +17,8 @@
 
    # Install production dependencies.
    RUN npm cache clean
-   RUN npm install -g npm@10.0.0
-
+   RUN npm install
+   
    # Copy local code to the container image.
    COPY . .
 
