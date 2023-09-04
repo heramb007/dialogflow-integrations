@@ -16,7 +16,6 @@
    COPY ${INTEGRATION}/package*.json ./
 
    # Install production dependencies.
-   RUN npm cache clean
    RUN npm install
    
    # Copy local code to the container image.
